@@ -16,4 +16,4 @@ com amor, com alegria, com a mente aberta e o coração livre!
 
 :star:
 
-![Isso é uma imagem](encurtador.com.br/oORS0)
+![Isso é uma imagem]( https://2.bp.blogspot.com/-cVR9zbrckR8/XF8nFh5rCHI/AAAAAAAAGvw/18nmgBYZkmsYbv1kQGAM8haaaJXPdf6kwCLcBGAs/s1600/51735326_1941904582603869_7361318746977206272_n.jpg)
